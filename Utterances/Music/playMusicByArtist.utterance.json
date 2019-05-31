@@ -8,6 +8,10 @@
 		{
 			"market": "es-US",
 			"utterance": "reproduce música de <artists>"
+		},
+		{
+			"market": "pt-BR",
+			"utterance": "toca musica de <artists>"
 		}
 	]
 }
