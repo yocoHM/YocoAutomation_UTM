@@ -1,0 +1,21 @@
+{
+	"dataKey": "artists",
+	"markets": [
+		{
+			"market":"es-MX",
+			"catalogData": [
+				"División Minúscula",
+				"Luis Miguel",
+				"Moderatto"
+			]
+		},
+				{
+			"market":"es-US",
+			"catalogData": [
+				"Los Tucanes de Tijuana",
+				"Cafe Tacvba",
+				"Camila"
+			]
+		}
+	]
+}

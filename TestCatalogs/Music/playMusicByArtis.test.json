@@ -1,0 +1,11 @@
+{
+	"testName": "playMusic",
+	"testSteps": [
+		{
+			"utteranceKey": "playMusicByArtist",
+			"expectedResults": {
+				"intent": "PlayMusic"
+			}
+		}
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"utteranceKey": "playMusicByArtist",
+	"markets": [
+		{
+			"market": "es-MX",
+			"utterance": "pon música de <artists>"
+		},
+		{
+			"market": "es-US",
+			"utterance": "reproduce música de <artists>"
+		}
+	]
+}
